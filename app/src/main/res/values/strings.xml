@@ -4,5 +4,11 @@
     <string name="app_name">Colloquium2</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="miAdd_title">Add a candidate</string>
+    <string name="miStartVoting_title">Start voting</string>
+    <string name="miEndVoting_title">End voting</string>
+    <string name="miReset_title">Reset</string>
+    <string name="btnAddSubject_text">Save</string>
+    <string name="edtCandidate">Rename candidate</string>
 
 </resources>
